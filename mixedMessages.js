@@ -1,0 +1,3 @@
+const humor = ['in good humor today!', 'very happy today', 'feeling neutral today.', 'somehwat annoyed today.', 'very displeased today.'];
+const luck = ['shower everyone with good fortune.', 'give you a little extra luck.', 'leave the day in your hands.', 'do their best to make your life more difficult.'];
+const chance = ['finding your soulmate.', 'winning the lottery.', 'being bored.', 'losing your keys.', 'being late to work.'];
